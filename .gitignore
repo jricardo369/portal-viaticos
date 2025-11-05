@@ -1,0 +1,8 @@
+/build/
+.classpath
+/.settings/
+.project
+/target/m2e-wtp/web-resources/META-INF/maven/com.viaticos/PortalViaticos/pom.properties
+target
+bin
+*.class
